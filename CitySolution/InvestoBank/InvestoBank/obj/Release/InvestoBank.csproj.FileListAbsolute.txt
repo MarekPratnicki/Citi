@@ -1,0 +1,5 @@
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\bin\Release\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\bin\Release\InvestoBank.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\obj\Release\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\obj\Release\InvestoBank.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\obj\Release\InvestoBank.csprojResolveAssemblyReference.cache

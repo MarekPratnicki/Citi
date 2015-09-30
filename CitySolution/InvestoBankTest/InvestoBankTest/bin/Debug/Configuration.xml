@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Brokers>
+  <Broker id="1">
+    <Commission>
+      <value>5</value>
+    </Commission>
+  </Broker>
+  <Broker id="2">
+    <Commission>
+      <fromCount>10</fromCount>
+      <toCount>40</toCount>
+      <value>3</value>
+    </Commission>
+    <Commission>
+      <fromCount>50</fromCount>
+      <toCount>80</toCount>
+      <value>2,5</value>
+    </Commission>
+    <Commission>
+      <fromCount>90</fromCount>
+      <toCount>100</toCount>
+      <value>2</value>
+    </Commission>    
+  </Broker>
+</Brokers>

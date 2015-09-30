@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Brokers>
+  <Broker id="1">
+    <Quotation>
+      <symbol>DIGI</symbol>
+      <value>5</value>
+    </Quotation>
+  </Broker>
+  <Broker id="2">
+    <Quotation>
+      <symbol>DIGI</symbol>
+      <value>5</value>
+    </Quotation>  
+  </Broker>
+</Brokers>

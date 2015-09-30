@@ -1,0 +1,14 @@
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\bin\Release\InvestoBankTest.exe
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\bin\Release\InvestoBankTest.pdb
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\bin\Release\InvestoBank.dll
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\bin\Release\InvestoBank.pdb
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\obj\x86\Release\InvestoBankTest.csprojResolveAssemblyReference.cache
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\obj\x86\Release\InvestoBankTest.exe
+C:\Users\mpratnic\AppData\Local\Temporary Projects\InvestoBankTest\obj\x86\Release\InvestoBankTest.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Release\InvestoBankTest.exe
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Release\InvestoBankTest.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Release\InvestoBankTest.exe
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Release\InvestoBankTest.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Release\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Release\InvestoBank.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Release\InvestoBankTest.csprojResolveAssemblyReference.cache

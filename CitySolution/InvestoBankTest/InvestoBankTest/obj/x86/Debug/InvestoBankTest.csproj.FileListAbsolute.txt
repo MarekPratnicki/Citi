@@ -1,0 +1,7 @@
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Debug\InvestoBankTest.exe
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Debug\InvestoBankTest.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Debug\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\bin\Debug\InvestoBank.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Debug\InvestoBankTest.csprojResolveAssemblyReference.cache
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Debug\InvestoBankTest.exe
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBankTest\InvestoBankTest\obj\x86\Debug\InvestoBankTest.pdb

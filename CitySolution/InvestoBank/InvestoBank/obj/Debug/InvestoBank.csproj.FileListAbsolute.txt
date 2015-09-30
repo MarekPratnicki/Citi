@@ -1,0 +1,4 @@
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\bin\Debug\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\bin\Debug\InvestoBank.pdb
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\obj\Debug\InvestoBank.dll
+C:\Users\mpratnic\documents\visual studio 2010\Projects\InvestoBank\InvestoBank\obj\Debug\InvestoBank.pdb
